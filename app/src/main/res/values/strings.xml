@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MadLevel2Example</string>
+    <string name="button_text">Add Reminder</string>
+    <string name="reminder_hint">Give a reminder</string>
 </resources>
